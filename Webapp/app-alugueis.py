@@ -10,7 +10,7 @@ st.write("A base de dados foi coletada a partir do site do Viva Real")
 
 # Função para ler o arquivo contendo o dataset
 def load_data():
-    return pd.read_csv("data_features.csv")
+    return pd.read_csv("Webapp/data_features.csv")
 
 #Função para treinar o modelo
 def train_model():
