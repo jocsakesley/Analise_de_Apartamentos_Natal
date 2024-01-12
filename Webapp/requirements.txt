@@ -1,4 +1,4 @@
 pandas==1.0.5
-streamlit==0.63.0
+streamlit==1.30.0
 plotly==4.9.0
 scikit_learn==0.23.1
